@@ -1,0 +1,32 @@
+.LoggedInHeader{
+    width: 98vw;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.overallContainer{
+    background-color: red;
+    width: 235px;
+    height: 235px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.categoriesPage{
+    display: flex;
+    flex-wrap: wrap;
+}
+.categoriesHead{
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+.CategoryText{
+    text-decoration: none;
+}
+Link{
+    text-decoration: none;
+}
+.ProductsHead{
+    margin-top: 90px;
+    margin-left: 15px;
+}
